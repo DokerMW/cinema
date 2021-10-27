@@ -675,10 +675,10 @@ body.ie ._ibg img {
   left: 0;
   width: 100%;
   z-index: 10;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(98, 20, 2, 0.31)), color-stop(85.62%, #621402)), url("img/header/bg.jpg") center 0/cover no-repeat;
-  background: -webkit-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("img/header/bg.jpg") center 0/cover no-repeat;
-  background: -o-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("img/header/bg.jpg") center 0/cover no-repeat;
-  background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("img/header/bg.jpg") center 0/cover no-repeat; }
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(98, 20, 2, 0.31)), color-stop(85.62%, #621402)), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: -webkit-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: -o-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat; }
   .header__container {
     display: -webkit-box;
     display: -ms-flexbox;
