@@ -154,7 +154,7 @@ h6 {
       transition: all 0.3s ease 0s;
       width: 11px;
       height: 7px;
-      background: url("/img/icons/arrow_w.svg") center/100% no-repeat; }
+      background: url("../img/icons/arrow_w.svg") center/100% no-repeat; }
   .address-page__form .select__input {
     width: 100%;
     background-color: transparent;
@@ -260,7 +260,7 @@ h6 {
       transition: all 0.3s ease 0s;
       width: 11px;
       height: 7px;
-      background: url("/img/icons/arrow_w.svg") center/100% no-repeat; }
+      background: url("../img/icons/arrow_w.svg") center/100% no-repeat; }
   .time-page__form .select__input {
     width: 100%;
     background-color: transparent;
@@ -675,10 +675,10 @@ body.ie ._ibg img {
   left: 0;
   width: 100%;
   z-index: 10;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(98, 20, 2, 0.31)), color-stop(85.62%, #621402)), url("/img/header/bg.jpg") center 0/cover no-repeat;
-  background: -webkit-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("/img/header/bg.jpg") center 0/cover no-repeat;
-  background: -o-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("/img/header/bg.jpg") center 0/cover no-repeat;
-  background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("/img/header/bg.jpg") center 0/cover no-repeat; }
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(98, 20, 2, 0.31)), color-stop(85.62%, #621402)), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: -webkit-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: -o-linear-gradient(top, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat;
+  background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 85.62%), url("../img/header/bg.jpg") center 0/cover no-repeat; }
   .header__container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1212,7 +1212,7 @@ body._lock {
     background: url("../img/icons/clock.svg") 0 0 no-repeat; }
   .film-info__rating {
     padding: 0px 0px 0px 47px;
-    background: url("img/icons/imdb.png") 0 4px no-repeat; }
+    background: url("../img/icons/imdb.png") 0 4px no-repeat; }
 
 .current-rating {
   font-weight: 700;
