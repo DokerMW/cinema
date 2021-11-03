@@ -1209,10 +1209,10 @@ body._lock {
     padding: 0px 0px 0px 34px;
     font-size: 16px;
     line-height: 150%;
-    background: url("/img/icons/clock.svg") 0 0 no-repeat; }
+    background: url("img/icons/clock.svg") 0 0 no-repeat; }
   .film-info__rating {
     padding: 0px 0px 0px 47px;
-    background: url("/img/icons/imdb.png") 0 4px no-repeat; }
+    background: url("img/icons/imdb.png") 0 4px no-repeat; }
 
 .current-rating {
   font-weight: 700;
